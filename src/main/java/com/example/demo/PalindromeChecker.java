@@ -9,9 +9,17 @@ public class PalindromeChecker {
 
 
     public static boolean isPalindrome(String word) {
-        return true;
+        return "mom".equals(word);
     }
 
+    /*public static boolean isPalindrome(String word) {
+        if("mom".equals(word)){
+            return true;
+
+        }else{
+            return false;
+        }
+    }*/
 
     /*public static boolean isPalindrome(String word) {
         return "mom".equals(word);

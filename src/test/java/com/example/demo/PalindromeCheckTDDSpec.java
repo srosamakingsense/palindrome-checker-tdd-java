@@ -12,10 +12,10 @@ class PalindromeCheckTDDSpec {
         Assertions.assertTrue(PalindromeChecker.isPalindrome("mom"));
     }
 
-    /*@Test
+    @Test
     void palindrome_check_case_2() {
         Assertions.assertFalse(PalindromeChecker.isPalindrome("bill"));
-    }*/
+    }
 
     /*@Test
     void palindrome_check_case_3() {
