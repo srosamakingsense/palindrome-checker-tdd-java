@@ -5,7 +5,7 @@ import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class PalindromeCheckTDD {
+class PalindromeCheckTDDSpec {
 
     @Test
     void palindrome_check_case_1() {
